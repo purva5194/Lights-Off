@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/logs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:ems="10"
+        android:enabled="true"
+        android:isScrollContainer="true"
+        android:hint="Type your quote here"
+        android:background="#fafafa"
+        android:textIsSelectable="true"
+        android:focusable="false"
+        android:gravity="center"
+        android:padding="24dp"
+        android:inputType="textMultiLine" />
+
+</LinearLayout>
