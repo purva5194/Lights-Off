@@ -25,11 +25,14 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp">
-            <EditText android:id="@+id/profile_firstname"
+
+            <EditText
+                android:id="@+id/profile_firstname"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:hint="First Name"
                 android:inputType="textCapWords"
-                android:hint="First Name" />
+                android:text="Purva" />
         </android.support.design.widget.TextInputLayout>
 
         <!--  Last Name Label -->
@@ -38,11 +41,14 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp">
-            <EditText android:id="@+id/profile_lastname"
+
+            <EditText
+                android:id="@+id/profile_lastname"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:hint="Last Name"
                 android:inputType="textCapWords"
-                android:hint="Last Name" />
+                android:text="Patel" />
         </android.support.design.widget.TextInputLayout>
 
         <!-- Email Label -->
@@ -51,11 +57,14 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp">
-            <EditText android:id="@+id/profile_email"
+
+            <EditText
+                android:id="@+id/profile_email"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:hint="Email"
                 android:inputType="textEmailAddress"
-                android:hint="Email" />
+                android:text="purva.patel@gmail.com" />
         </android.support.design.widget.TextInputLayout>
 
         <!-- Password Label -->
