@@ -14,6 +14,9 @@ The smart interfaces and device definitions to ensure interoperability between a
 4. AysncTask for every second real-time Data <br>
 5. JWT(JSON Web Token) For Security<br>
 
+![capture1](https://user-images.githubusercontent.com/21271724/34124912-80af03ac-e3e9-11e7-9f40-4e876ce31ade.PNG)   ![capture2](https://user-images.githubusercontent.com/21271724/34124926-8d6b272e-e3e9-11e7-8219-86da418db3cd.PNG)
+![capture3](https://user-images.githubusercontent.com/21271724/34124935-913285c8-e3e9-11e7-8057-1fef84ffc834.PNG)
+
 ## For Backend Code
 
 #### This repository consist of a basic setup of an REST Api using Node.js, Express and Mongodb.
