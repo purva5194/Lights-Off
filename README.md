@@ -2,6 +2,11 @@
 
 Developed system for automated notification and real time monitoring of a lighted empty room using Arduino Board, which will helps user to get notified about empty rooms with lights ON.
 
+This app provides a low cost-effective, flexible control and monitoring system with the aid of an Arduino micro controller and node server with IP connectivity for access to and control of equipment and devices remotely using Android-based smartphone app. The proposed system does not require a dedicated server PC with respect to similar systems and offers a new communication protocol for monitoring and controlling the home environment with more than just switching functionality. 
+
+The smart interfaces and device definitions to ensure interoperability between android devices from various manufacturers of electrical equipment, meters and Smart Energy enables products to allow manufactured. We introduced the proposed energy control systems design intelligent services for users and provides, we show their implementation, with smartphone.
+
+
 ## Features
 1. Live Chart <br>
 2. User can turn ON/OFF LED light from App <br>
